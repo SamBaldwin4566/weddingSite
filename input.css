@@ -3,9 +3,9 @@
 @tailwind utilities;
 @font-face {
     font-family: "bmRegular";
-    src: url(/dist/BlackMango-Regular.ttf);
+    src: url(BlackMango-Regular.ttf);
 }
 @font-face {
     font-family: "bmBold";
-    src: url(/dist/BlackMango-Bold\ copy.ttf);
+    src: url(BlackMango-Bold\ copy.ttf);
 }

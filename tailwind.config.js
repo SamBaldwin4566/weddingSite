@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./dist/*.{html,js}"],
+  content: ["./*.{html,js}"],
   theme: {
     extend: {
       screens: {
@@ -19,7 +19,7 @@ module.exports = {
         'bmBold': ["bmBold", "sans-serif"]
       },
       backgroundImage:{
-        'osaka1': "url('../dist/Images/osaka1.jpeg')"
+        'osaka1': "url('Images/osaka1.jpeg')"
       }
     },
   },
