@@ -19,7 +19,9 @@ module.exports = {
         'bmBold': ["bmBold", "sans-serif"]
       },
       backgroundImage:{
-        'osaka1': "url('Images/osaka1.jpeg')"
+        'osaka1': "url('Images/osaka1.jpeg')",
+        'kyoto1': "url('Images/kyoto2.png')"
+
       }
     },
   },
