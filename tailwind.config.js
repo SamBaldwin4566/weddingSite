@@ -8,7 +8,7 @@ module.exports = {
         sm: "480px",
         md: "768px",
         lg: "976px",
-        xl: "1440px",
+        xl: "1800px",
       },
       colors: {
         FSgreen:"#005C26"
@@ -20,7 +20,8 @@ module.exports = {
       },
       backgroundImage:{
         'osaka1': "url('Images/osaka1.png')",
-        'kyoto1': "url('Images/kyoto2.png')"
+        'kyoto1': "url('Images/kyoto2.png')",
+        'bali1': "url('Images/bali2.jpeg')"
 
       }
     },
