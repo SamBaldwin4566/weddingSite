@@ -8,7 +8,7 @@ module.exports = {
         sm: "480px",
         md: "768px",
         lg: "976px",
-        xl: "1800px",
+        xl: "1600px",
       },
       colors: {
         FSgreen:"#005C26"
