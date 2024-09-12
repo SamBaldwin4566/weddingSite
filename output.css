@@ -1083,6 +1083,10 @@ video {
   font-size: 15px;
 }
 
+.text-\[11px\] {
+  font-size: 11px;
+}
+
 .font-\[16px\] {
   font-weight: 16px;
 }
